@@ -1,9 +1,40 @@
 h1 {
-    color: #eed1fc;
+    color: #5884e2;text-align:center;
 }
 h2 {
     color:#1a29aa;
 }
+h3 {
+    color: #1a29aa;
+}
+h4 {
+    color:#1a29aa;
+}
+h5 {
+    color: #1a29aa;
+}
+p {
+    color: #111116;
+}
+
+
 table, th, td{
     border:1px solid black;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url(https://images.pexels.com/photos/1367179/pexels-photo-1367179.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-1367179.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+img{
+    max-width:40%;
+    display:block;
 }
