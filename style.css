@@ -1,18 +1,18 @@
 @media screen and (min-width: 481px) and (max-width:769px){
     h1{
-        font-size:4rem;color: #5d24e2;text-align:center;
+        font-size:3rem;color: #5d24e2;text-align:center;
     }
     h2{
-        font-size: 3rem;color:#1a29aa;
+        font-size: 2rem;color:#1a29aa;
     }
     h3{
-        font-size:3rem;color: #1a29aa;
+        font-size:2rem;color: #1a29aa;
     }
     h4{
-        font-size: 3rem;color:#1a29aa;
+        font-size: 2rem;color:#1a29aa;
     }
     h5{
-        font-size:3rem;color: #1a29aa;
+        font-size:2rem;color: #1a29aa;
     }
     p{
         font-size: 1rem;color: #111116;
